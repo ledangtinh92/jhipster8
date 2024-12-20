@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = com.jhipter8.config.\
+    SqlTestContainersSpringContextCustomizerFactory
